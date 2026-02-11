@@ -1,0 +1,5 @@
+{
+  "name": "QR Pro Studio",
+  "description": "A professional-grade QR code generator that converts text, numbers, or links into high-quality QR codes. Features real-time generation, customization, and export options to Image (PNG) or PDF format, enhanced with Gemini AI for link analysis.",
+  "requestFramePermissions": []
+}
